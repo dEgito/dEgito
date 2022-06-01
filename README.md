@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como Scrum Master
 - 🌱 Estudando ReactJS
-- 😄 Pronouns: Ela/Dela
+- 😄 Pronomes: Ela/Dela
 
 <div>
   <a href = "mailto:egitodany.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
