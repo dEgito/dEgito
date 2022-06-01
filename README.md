@@ -1,4 +1,4 @@
-## Olá, eu sou a Dani Egito!
+## Olá, eu sou Danielly Egito!
 
 - 🔭 Hoje trabalho como Scrum Master
 - 🌱 Estudando ReactJS
