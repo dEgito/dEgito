@@ -1,9 +1,17 @@
 ## Olá, eu sou Danielly Egito!
 
-- 🔭 Hoje trabalho como Scrum Master
-- 🌱 Estudando ReactJS
-- 😄 Pronomes: Ela/Dela
+- 🎓 Sou estudante de Sistemas de Informação na UFRPE e estou em busca de conhecimento e experiências na área de desenvolvimento de software.
 
+- 👩‍💻 Atualmente, faço parte do programa Start 2023, da Rede Cidadã, onde estou expandindo minha rede de contatos e aprendendo com profissionais experientes do setor.
+
+- 💼 Já atuei como Analista de Projetos na Seed a Bit Tecnologia, onde tive a oportunidade de colocar em prática meus conhecimentos e habilidades. Anteriormente, tive uma experiência como estagiária em Agile, com ênfase em Scrum, na Mind Source BR. Essas experiências me proporcionaram uma compreensão sólida do ciclo de vida do desenvolvimento de software e a importância da colaboração em equipe.
+
+- 💻 Como desenvolvedora front-end, meu foco principal é o React JS, mas já atuei em projetos com Flutter e Django, adquirindo experiência em diferentes tecnologias.
+
+- 🔎 Tenho conhecimentos básicos em MySQL e TypeScript.
+
+- 🌱 Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades. Adoro trabalhar em equipe, aprender com os outros e contribuir para projetos inovadores.
+---
 <div>
   <a href = "mailto:egitodany.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danielly-egito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
